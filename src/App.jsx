@@ -26,6 +26,12 @@ class App extends React.Component {
           <div className="columns">
             <div className="column">
               <p className="title is-10"> AS NEWS</p>
+              <img src="https://i.ibb.co/NmLph2s/maxresdefault.jpg" alt="news" />
+              <p className="title is-5">THE NEWS WORLD!</p>
+              <img src="https://i.ibb.co/8skNtzP/vector-blue-breaking-news-tv-background.jpg" alt="news2" />
+              <p className="title">TOP HEADLINES</p>
+              <img src="https://i.ibb.co/g37h32y/sportnews.jpg" alt="news4" />
+
             </div>
             <div className="column">
               <p className="title is-10">ARTICLES</p>
